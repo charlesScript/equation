@@ -16,4 +16,5 @@ def calculEquation(a, b, c):
     return s
 
 
+#resultat de l'équation
 print(calculEquation(3, -6, 2))
