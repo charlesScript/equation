@@ -1,7 +1,7 @@
 from math import sqrt
 
 
-# Un programme qui calcul de résultat d'une équation
+# Un programme qui calcul de résultat d'une équation du second degré
 
 
 def calculEquation(a, b, c):
@@ -16,5 +16,5 @@ def calculEquation(a, b, c):
     return s
 
 
-#resultat de l'équation
+# resultat de l'équation
 print(calculEquation(3, -6, 2))
